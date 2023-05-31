@@ -2,22 +2,22 @@
 
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>cloud-manager-compute | NetApp Documentation</title>
-    <atom:link href="https://docs.netapp.com/it-it/cloud-manager-compute/feed.xml" rel="self" type="application/rss+xml"/>
-    <link>https://docs.netapp.com/it-it/cloud-manager-compute</link>
+    <title>bluexp-cloud-ops | NetApp Documentation</title>
+    <atom:link href="https://docs.netapp.com/it-it/bluexp-cloud-ops/feed.xml" rel="self" type="application/rss+xml"/>
+    <link>https://docs.netapp.com/it-it/bluexp-cloud-ops</link>
     <description>The latest updates from NetApp Documentation</description>
     <language>it-it</language>
     <ttl>60</ttl>
-    <pubDate>Wed, 24 May 2023 08:38:30 +0000</pubDate>
-    <lastBuildDate>Wed, 24 May 2023 08:38:30 +0000</lastBuildDate>
+    <pubDate>Wed, 31 May 2023 15:36:43 +0000</pubDate>
+    <lastBuildDate>Wed, 31 May 2023 15:36:43 +0000</lastBuildDate>
     
     
     
     <item>
-      <title>Novità (23 May 2023)</title>
-      <pubDate>Tue, 23 May 2023 20:57:51 +0000</pubDate>
-      <link>https://docs.netapp.com/it-it/cloud-manager-compute/whats-new.html?time=1684875471</link>
-      <guid isPermaLink="false">Tue, 23 May 2023 20:57:51 +0000</guid>
+      <title>Novità (31 May 2023)</title>
+      <pubDate>Wed, 31 May 2023 15:33:14 +0000</pubDate>
+      <link>https://docs.netapp.com/it-it/bluexp-cloud-ops/whats-new.html?time=1685547194</link>
+      <guid isPermaLink="false">Wed, 31 May 2023 15:33:14 +0000</guid>
       <description><![CDATA[ Scopri le novità di BlueXP Cloud Ops. ]]></description>
     </item>
     
