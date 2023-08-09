@@ -26,7 +26,7 @@ Connetti Cloud Analyzer al tuo account AWS payer per iniziare a ottimizzare i co
 .. Eseguire il modello CloudFormation.
 .. Incollare il RoleARN di Spot.
 +
-https://help.spot.io/cloud-analyzer/connect-your-aws-account-2/["Visualizza ulteriori dettagli su questi passaggi"^].
+https://docs.spot.io/connect-your-cloud-provider/first-account/?id=connect-aws["Visualizza ulteriori dettagli su questi passaggi"^].
 
 +
 image:screenshot_compute_add_account.gif["Una schermata che mostra ogni campo disponibile nella pagina di connessione."]
