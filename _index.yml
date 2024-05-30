@@ -1,0 +1,27 @@
+---
+indexpage:
+  title: Documentazione BlueXP cloud Ops
+  summary: Visualizza un'analisi dei costi delle tue spese di calcolo per il cloud
+    e identifica i potenziali risparmi direttamente da BlueXP.
+  keywords: bluexp-family, bluexp, documentation, cloud
+  lead: Visualizza un'analisi dei costi delle tue spese di calcolo per il cloud e
+    identifica i potenziali risparmi direttamente da BlueXP.
+  tiles:
+  - title: Inizia subito
+    links:
+    - title: Scopri le operazioni cloud di BlueXP
+      url: concept-compute.html
+    - title: Collegare l'account AWS
+      url: task-getting-started-compute.html
+  - title: Utilizza le operazioni cloud di BlueXP
+    links:
+    - title: Analizza i costi di calcolo
+      url: task-analyze-costs.html
+  - title: Blog e community
+    links:
+    - title: Community NetApp
+      url: https://community.netapp.com/t5/Cloud-Data-Services/ct-p/CDS
+    - title: Blog BlueXP
+      url: https://cloud.netapp.com/blog
+    - title: Webinar sul cloud
+      url: https://cloud.netapp.com/events
