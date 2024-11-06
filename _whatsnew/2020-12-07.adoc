@@ -1,0 +1,11 @@
+= Navigazione tra Cloud Manager e Spot
+:allow-uri-read: 
+
+
+
+
+=== Navigazione tra Cloud Manager e Spot
+
+Ora è più semplice spostarsi tra Cloud Manager e Spot.
+
+Una nuova sezione *Storage Operations* di Spot consente di accedere direttamente a Cloud Manager. Al termine, puoi tornare a Spot dalla scheda *Compute* di Cloud Manager.
