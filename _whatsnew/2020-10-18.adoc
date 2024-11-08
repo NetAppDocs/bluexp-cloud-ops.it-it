@@ -10,4 +10,4 @@ Sfruttando https://spot.io/products/cloud-analyzer/["Spot's Cloud Analyzer"^], C
 
 https://docs.netapp.com/us-en/bluexp-cloud-ops/concept-compute.html["Scopri di più sul servizio di calcolo"].
 
-image:screenshot_compute_dashboard.gif["Una schermata che mostra la pagina analisi dei costi in Cloud Manager"]
+image:https://raw.githubusercontent.com/NetAppDocs/bluexp-cloud-ops/main/media/screenshot_compute_dashboard.gif["Una schermata che mostra la pagina analisi dei costi in Cloud Manager"]
